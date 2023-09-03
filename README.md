@@ -1,2 +1,2 @@
-# TI16-PAIZAL
+paizalmerdijaya/H8_Batch_5
 Repositori untuk mengumpulkan tugas praktikum
